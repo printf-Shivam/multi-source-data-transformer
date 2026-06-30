@@ -1,0 +1,54 @@
+{
+    "candidate_id": "CAND-8892",
+    "personal_info": {
+      "name": "  John Michael Doe  ",
+      "email": "john.doe@email.com",
+      "secondary_email": "johndoe@gmail.com",
+      "phone": "(555) 123-4567",
+      "location": {
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "usa"
+      }
+    },
+    "professional_summary": {
+      "headline": "Senior Full-Stack Engineer",
+      "current_company": "TechCorp Inc.",
+      "current_title": "Lead Software Engineer"
+    },
+    "links": {
+      "github": "https://github.com/johndoe99",
+      "linkedin": "https://linkedin.com/in/johndoe"
+    },
+    "work_experience": [
+      {
+        "company": "TechCorp Inc.",
+        "title": "Lead Software Engineer",
+        "start_date": "2023-01-15",
+        "end_date": "Present",
+        "summary": "Leading a team of 8 engineers on a microservices platform."
+      },
+      {
+        "company": "StartupXYZ",
+        "title": "Full-Stack Developer",
+        "start_date": "Jan 2020",
+        "end_date": "2022-12",
+        "summary": "Built the core API using Node.js and React."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Stanford University",
+        "degree": "Master of Science",
+        "field": "Computer Science",
+        "end_year": "2019"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "react.js",
+      "Python",
+      "AWS",
+      "postgresql"
+    ]
+  }

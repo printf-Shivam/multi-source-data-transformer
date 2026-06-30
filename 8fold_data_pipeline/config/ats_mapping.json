@@ -1,0 +1,15 @@
+{
+  "ats": {
+    "candidate_id": ["candidate_id", "id", "candidateId"],
+    "full_name": ["personal_info.name", "name", "candidate_name", "personName", "legal_name"],
+    "emails": ["personal_info.email", "email", "email_address", "primary_email"],
+    "phones": ["personal_info.phone", "phone", "phone_number", "mobile"],
+    "headline": ["professional_summary.headline", "title", "job_title", "headline"],
+    "github_url": ["links.github", "github", "github_url", "github_profile"],
+    "linkedin_url": ["links.linkedin", "linkedin", "linkedin_url", "linkedin_profile"],
+    "location": ["personal_info.location", "location", "address"],
+    "experience": ["work_experience", "experience", "employment_history"],
+    "education": ["education", "academic_history"],
+    "skills": ["skills", "skill_set", "competencies"]
+  }
+}
