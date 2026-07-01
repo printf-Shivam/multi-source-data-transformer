@@ -20,6 +20,7 @@ python -m spacy download en_core_web_sm
 python main.py --ats data/sample_ats.json --note data/recruiter_note.txt --config config_default.json
 ```
 
+
 ### Run with all sources (ATS + GitHub + Recruiter Note)
 
 ```bash
