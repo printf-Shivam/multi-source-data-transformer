@@ -15,6 +15,11 @@ python -m spacy download en_core_web_sm
 
 ## Exact Run Steps
 
+### Run with default configurations
+```bash
+python main.py --ats data/sample_ats.json --note data/recruiter_note.txt --config config_default.json
+```
+
 ### Run with all sources (ATS + GitHub + Recruiter Note)
 
 ```bash
@@ -125,8 +130,9 @@ All tests pass.
 ## Demo Video
 
 **Demo Video Link (≈2 minutes)**
-  (please use earphones/headphones the audio is extremely low, tried my best with available gears)
-  
+
+  (please use earphones/headphones the audio is extremely low, tried my best with available gears. please coperate )
+
   https://drive.google.com/file/d/1HjqibxtbDwr5NgiLUmzFtY830mT0U64b/view?usp=sharing
 
 
