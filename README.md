@@ -122,6 +122,24 @@ All tests pass.
 
 ---
 
+## Demo Video
+
+**Demo Video Link (≈2 minutes)**
+  (please use earphones/headphones the audio is extremely low, tried my best with available gears)
+  
+  https://drive.google.com/file/d/1HjqibxtbDwr5NgiLUmzFtY830mT0U64b/view?usp=sharing
+
+
+The video demonstrates:
+
+- End-to-end run with all three sources
+- Default output and custom config output
+- design decision (Source Authority Matrix, Observation pattern)
+- One edge case (invalid phone → note fills the gap)
+
+
+---
+
 ## Architecture (5-Stage Pipeline)
 
 | Stage | Responsibility |
@@ -188,18 +206,6 @@ All tests pass.
 
 ---
 
-## Demo Video
-
-**Demo Video Link (≈2 minutes)**
-
-The video demonstrates:
-
-- End-to-end run with all three sources
-- Default output and custom config output
-- One design decision (Source Authority Matrix)
-- One edge case (invalid phone → note fills the gap)
-
----
 
 ## Built With
 

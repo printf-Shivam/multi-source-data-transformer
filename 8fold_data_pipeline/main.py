@@ -15,7 +15,7 @@ def main():
         description="Eightfold Multi-Source Candidate Data Transformer"
     )
     
-    # --- Data Sources (All Optional at the CLI level) ---
+    # --- Data Sources ---
     parser.add_argument(
         "--ats",
         required=False,
